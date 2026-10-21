@@ -1,15 +1,14 @@
 <div align="center">
 
-# Hey, I'm Thox 🤠
+# Hey, I'm Thox 🤠 🇫🇷
 
-### French 🇫🇷 </br> · </br> Software Engineer
 
-From web applications to decentralized protocols, I enjoy turning ideas into working prototypes.
+From web applications to decentralized protocols, I enjoy turning ideas into working prototypes
 
 </div>
 <details>
 
-## Hackathons & Awards
+## Hackathons ☄️
 
 Building with a team or solo, experimenting, and shipping under a deadline.
 
