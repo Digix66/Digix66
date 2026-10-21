@@ -14,6 +14,7 @@ Building with a team or solo, experimenting, and shipping under a deadline.
 
 | Date | Hackathon | Project & Idea | Prize Won? | Result |
 | :--- | :--- | :--- | :---: | :--- |
+| Sep 4-13, 2026 | **ETHOnline** | **[Koven](https://ethglobal.com/showcase/koven-7598i)** - Credit and policy infrastructure for autonomous x402 agents on Hedera | - | - |
 | Feb 9–10, 2026 | **FoxyHack** · EAC2P / BA 105 | **TraceOps** — decision traceability with Hyperledger Fabric, APIs, and access management | - | Special jury commendation for the most audacious project |
 | Jan 30–Feb 1, 2026 | **Aptos x402** | **x402 Inspector** — an observability SDK for Aptos x402 payment flows | - | — |
 | Dec 17–27, 2025 | **CapX** | **Hivee** — a decentralized lending and borrowing protocol for autonomous AI agents | - | — |
