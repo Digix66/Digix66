@@ -2,7 +2,7 @@
 
 # Hey, I'm Thox 🤠
 
-### Full Stack Developer · Blockchain & Developer Tools
+### French 🇫🇷 </br> · </br> Software Engineer
 
 From web applications to decentralized protocols, I enjoy turning ideas into working prototypes.
 
@@ -11,7 +11,7 @@ From web applications to decentralized protocols, I enjoy turning ideas into wor
 
 ## Hackathons & Awards
 
-Building with a team, experimenting, and shipping under a deadline.
+Building with a team or solo, experimenting, and shipping under a deadline.
 
 | Date | Hackathon | Project & Idea | Prize Won? | Result |
 | :--- | :--- | :--- | :---: | :--- |
@@ -32,8 +32,9 @@ Building with a team, experimenting, and shipping under a deadline.
 
 **Got an idea, a hackathon, or a project to build together?**
 
-[Let's connect on LinkedIn](https://www.linkedin.com/in/th%C3%A9o-dubois-662407194/)
+[Email me](mailto:digixit66@gmail.com) · [LinkedIn](https://www.linkedin.com/in/th%C3%A9o-dubois-662407194/)
 
 </div>
+
 
 </details>
