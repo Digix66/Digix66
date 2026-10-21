@@ -20,7 +20,7 @@ Building with a team or solo, experimenting, and shipping under a deadline.
 | Dec 17–27, 2025 | **CapX** | **Hivee** — a decentralized lending and borrowing protocol for autonomous AI agents | - | — |
 | Jul–Sep 2025 | **WCHL** · Internet Computer | **[Qubex Protocol](https://qubex-protocol.io/)** — securing transactions against post-quantum attacks | 🥇 | 1st in the Portugal qualifying round · 4th in the second phase · semifinal qualification |
 | Jul 11–14, 2025 | **Chiliz** | **Kolise** — a sports engagement app with fan tokens, NFTs, and 3D avatars | - | — |
-| Oct 4–6, 2024 | **Vierzon** · B3 Village by CA | **CleanCash** — NFT invoices and interbank payments on the so\|cash protocol | 🥈 | 2nd place in the CACIB / so\|cash |
+| Oct 4–6, 2024 | **Vierzon** · B3 Village by CA | **[CleanCash](https://github.com/Digix66/CleanCash)** — NFT invoices and interbank payments on the so\|cash protocol | 🥈 | 2nd place in the CACIB / so\|cash |
 
 ---
 
